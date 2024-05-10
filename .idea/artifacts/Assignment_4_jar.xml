@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assignment 4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assignment_4_jar</output-path>
+    <root id="archive" name="Assignment 4.jar">
+      <element id="module-output" name="Stock App" />
+      <element id="library" level="project" name="joda.time" />
+      <element id="library" level="project" name="json" />
+    </root>
+  </artifact>
+</component>

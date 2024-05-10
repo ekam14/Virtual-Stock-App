@@ -1,0 +1,9 @@
+Date,CompanyName,CompanySymbol,Quantity,Unit Price,Total Value,Commission Fees,Type
+2002-10-10,Oracle Corp,ORCL,100,8.51,851.00,17.02,BUY
+2022-11-01,Amazon.com Inc,AMZN,10,96.79,967.90,19.36,BUY
+2014-11-03,Advance Auto Parts Inc,AAP,10,147.76,1477.60,29.55,BUY
+2016-06-01,Alphabet Inc - Class A,GOOGL,9,748.46,6736.14,134.72,BUY
+2021-07-01,Ford Motor Company,F,100,14.91,1491.00,29.82,BUY
+2016-03-01,Deere & Company,DE,10,81.05,810.50,16.21,BUY
+2019-01-01,Advance Auto Parts Inc,AAP,6,157.46,944.76,18.90,SELL
+2017-01-01,Dover Corp,DOV,15,74.93,1123.95,22.48,BUY

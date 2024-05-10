@@ -1,0 +1,4 @@
+Date,CompanyName,CompanySymbol,Quantity,Unit Price,Total Value,Commission Fees,Type
+2022-11-01,Amazon.com Inc,AMZN,100,96.79,9679.00,193.58,BUY
+2022-11-03,Amazon.com Inc,AMZN,101,100,10100.00,202.00,SELL
+2022-11-07,Amazon.com Inc,AMZN,80,106.79,8543.2,170.86,BUY
